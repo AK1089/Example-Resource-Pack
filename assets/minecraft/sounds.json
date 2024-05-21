@@ -1,0 +1,28 @@
+{
+    "block.lever.click": {
+        "sounds": [
+            {
+                "name": "random\/white_noise",
+                "volume": 1.00
+            }
+        ],
+        "replace": true
+    },
+    "entity.player.splash": {
+        "sounds": [
+            {
+                "name": "dial_tone",
+                "volume": 1.00
+            },
+            {
+                "name": "metronome",
+                "volume": 1.00
+            },
+            {
+                "name": "square_wave",
+                "volume": 1.00
+            }
+        ],
+        "replace": true
+    }
+}
